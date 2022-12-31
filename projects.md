@@ -1,6 +1,6 @@
 # Projects
 
-- [JEC](./events/jec.md)
-- [RCLC](./events/rclc.md)
-- [Sniper](./events/sniper.md)
+- [JEC](./projects/jec.md)
+- [RCLC](./projects/rclc.md)
+- [Sniper](./projects/sniper.md)
 

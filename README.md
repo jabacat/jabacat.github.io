@@ -3,9 +3,9 @@ JABACAT is a group of undergraduates working on coding projects to improve their
 
 # [Projects](./projects.md)
 
-- [JEC](./events/jec.md)
-- [RCLC](./events/rclc.md)
-- [Sniper](./events/sniper.md)
+- [JEC](./projects/jec.md)
+- [RCLC](./projects/rclc.md)
+- [Sniper](./projects/sniper.md)
 
 # [Events](./events.md)
 
